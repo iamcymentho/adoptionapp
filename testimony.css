@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.logicaltestimonial-section{
+
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    overflow: hidden;
+    margin: 0;
+    padding: 10px;
+}
+
+.logicaltestimonial-section{
+
+   border-radius: 15px;
+   padding: 50px 80px;
+   max-width: 768px;
+   position: relative;
+
+}
+
+.fa-quote{
+    color: rgba(255, 255, 255, 0.3);
+    font-size: 28px;
+    position: absolute;
+    /* top: 570px; */
+}
+
+.fa-quote-right{
+    left: 30px;
+}
+
+.fa-quote-left{
+    right: 30px;
+}
+
+.testimonial{
+    line-height: 28px;
+    text-align: justify;
+}
+
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user .user-image{
+
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    object-fit: cover;
+}
+
+.user .user-details{
+    margin-left: 10px;
+}
+
+.user .username{
+    padding: none;
+}
+
+.user .role{
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+.progress-bar{
+    background-color: #fff;
+    height: 4px;
+    width: 100%;
+    animation: grow 10s linear infinite;
+    transform-origin: left;
+}
+
+
+@keyframes grow{
+
+    0%{
+        transform:scaleX(0);
+    }
+}
+
+
+
+@media(max-width:768px){
+
+    .logicaltestimonial-section{
+        padding: 20px 30px;
+    }
+
+    .fa-quote{
+        display: none;
+    }
+}
