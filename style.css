@@ -1,0 +1,1031 @@
+body {
+    background-color: #f4f4f4;
+
+
+}
+
+.companycolor{
+
+    background-color: rgb(182, 62, 162);
+}
+
+.companytextcolor {
+
+    color: rgb(182, 62, 162);
+}
+
+.mynavbar{
+
+    background-color: rgb(48,142,197);
+}
+
+
+
+.myimages{
+
+    height: 500px;
+}
+
+
+.carouselheader{
+
+    font-family: 'Economica', sans-serif;
+        font-size:40px;
+}
+
+.carouseltext{
+
+    font-family: 'Economica', sans-serif;
+        font-size: 20px;
+        letter-spacing: 1px;
+}
+
+.myvision{
+
+    background-color:rgb(0, 102, 0);
+       
+}
+
+.myheading {
+
+
+    font-family: 'Bebas Neue', cursive;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    font-size: 40px;
+}
+
+
+.mytext {
+
+    font-family: 'Nunito', sans-serif;
+  
+    
+}
+
+.mycardtext{
+
+    font-family: 'EB Garamond', serif;
+}
+
+.movetext{
+
+    margin-top: -25px;
+}
+
+.mylist{
+
+    list-style-type: none;
+}
+
+.section2{
+
+    
+  
+    position: relative;
+
+    
+}
+
+/* .numbering{
+
+position: absolute;
+top: 70px;
+/* margin-left: 50px; */
+    
+/* }  */
+
+.mynumberheading{
+
+    font-family: 'Bebas Neue', cursive;
+        word-spacing: 3px;
+        letter-spacing: 2px;
+        font-size: 40px;
+}
+
+.overlap{
+
+    margin-top: -40px;
+}
+
+.mydisplayheading{
+
+    font-family: 'Bebas Neue', cursive;
+        word-spacing: 3px;
+        letter-spacing: 2px;
+        font-size: 20px;
+}
+
+.mytestimonial{
+
+    /* background-color: rgb(0, 41, 0); */
+
+    background-color: #ddd;
+}
+
+.mytestimonialheading{
+
+
+    font-family: 'Bebas Neue', cursive;
+        word-spacing: 3px;
+        letter-spacing: 2px;
+        font-size: 30px;
+}
+
+.myleftquote {
+
+
+    margin-left: 250px;
+}
+
+.mycard:hover {
+
+    background-color:rgb(0, 41, 0) ;
+    color: white;
+}
+
+.mynewsletter {
+
+
+    margin-left: 250px;}
+
+
+    #newsletter{
+
+
+        background-image:url("images/overlay2.webp");
+        height: 130px;
+
+        background-position: top;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+
+    .overlay{
+
+        background-color: rgba(0, 0, 0, 0.8);
+            min-height: 130px;
+    }
+
+    .myworld{
+
+    background-image: url("images/newimg4.jpg");
+    min-height:  685px;
+
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    }
+
+        .overlay1 {
+    
+            background-color: rgba(0, 0, 0, 0.2);
+            min-height: 685px;
+
+            margin-top: -15px;
+        }
+
+        .myproof{
+
+            position: absolute;
+            top: 230px;
+            padding: 30px;
+            margin: 30px;
+
+            background-color: rgba(0, 102, 0,0.8);
+        }
+
+
+        .legalsection{
+
+            margin-top: 70px;
+            background-color: #ddd;
+            min-height: 500px;
+            
+        }
+
+        .legalpicture{
+
+            height: 450px;
+            margin-left: 50px;
+        }
+
+        .legalcontent{
+
+            margin-top: 100px;
+        }
+
+
+        .legalpicture1{
+
+            height: 450px;
+        }
+
+        .legalcontent1{
+
+            margin-top: 60px;
+        }
+
+    footer ul li{
+
+        list-style-type: none;
+        
+    }
+
+    footer a{
+
+        text-decoration: none;
+        color: black;
+    }
+
+    footer a:hover{
+
+        color: rgb(255, 0, 0);
+
+    }
+
+    .myfootertext{
+
+
+        font-family: 'Economica', sans-serif;
+        font-size: 20px;
+    }
+
+    .myfooterinfo{
+
+        margin-top: 80px;
+    }
+
+    .secondfooter{
+
+        height: 30px;
+    }
+
+           
+            /* about us page styling starts here  */
+
+    .myheader{
+
+        background-image: url(images/family7.jpeg);
+        background-position: bottom;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    .myfirstdiv{
+
+        min-height: 500px;
+        /* margin-left: 125px; */
+    }
+
+       .himg{
+
+        height: 120px;
+        float: right;
+       } 
+       
+       .htext{
+
+        font-family: 'Bebas Neue', cursive;
+            word-spacing: 5px;
+            letter-spacing: 2px;
+            font-size: 20px;
+       }
+
+       .hdtext{
+        font-family: 'Bebas Neue', cursive;
+            word-spacing: 5px;
+            letter-spacing: 2px;
+       }
+
+
+
+            /* contact us page styling starts here */
+
+      .contactheader{
+
+
+        border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+        width: 21%;
+
+      }
+
+        
+      .mynumbercontactheading {
+        
+                      font-family: 'Bebas Neue', cursive;
+                      word-spacing: 3px;
+                      letter-spacing: 2px;
+                      font-size: 25px;
+              }
+
+
+      .findanswers  {
+
+        margin-left: 320px;
+      }  
+      
+        /* .accordion-button {
+    
+              color: white !important;
+          }
+
+          .accordion-header{
+            color: white !important;
+          }
+
+          .buttontext{
+            color:white !important;
+          } */
+      
+      .myaccordion{
+
+        margin-left: 200px;
+        width: 100%;
+      }
+
+
+      .contactsection{
+
+        margin-left: 100px;
+      }
+
+
+
+        /* team page styling goes here */
+
+                .myteamheader {
+        
+                    background-image: url(images/team4.jpeg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-attachment: fixed;
+
+                    height: 400px;
+
+                }
+
+                .myteamoverlay{
+
+                    background-color: rgba(0, 0, 0, 0.8);
+                        min-height: 400px;
+                }
+
+                .teamdisplayheader{
+
+                    font-family: 'Bebas Neue', cursive;
+                        word-spacing: 3px;
+                        letter-spacing: 3px;
+                        font-size: 35px;
+                        
+                        
+
+                }
+
+                .realteam{
+
+                    height: 300px;
+                }
+
+                .timheader{
+
+                    margin-left: 400px;
+                }
+
+                .timtext{
+
+                    margin-left: 200px;
+                }
+
+                .parentrob{
+
+                    margin-left: 200px;
+                }
+
+                .fancyteam{
+
+                    margin-left: 280px;
+                }
+
+                .fancybutton{
+
+                    margin-left: 100px;
+                }
+
+                
+            /* Sign In page styling starts here */
+
+
+              .sectionimg{
+
+                background-image: url(images/login.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-attachment: fixed;
+
+
+                    height: 800px;
+
+
+              }
+
+
+
+             .mysigninoverlay {
+            
+            
+                 background-color: rgba(0, 0, 0, 0.8);
+                 min-height: 800px;
+            
+                 }
+
+
+                 
+                  a{
+
+                    text-decoration: none;
+                    color: black;
+                 }
+
+                 .myformlogin{
+
+                    margin-top: 250px;
+
+                    margin-left: 350px;
+                 }
+
+
+                 .myicons{
+
+                    margin-left: 270px;
+                 }
+
+                 .forgot:hover{
+
+                    color: red;
+                 }
+            
+
+
+             /* Birth Parent page styling */
+
+             .birthparentheader{
+
+
+                font-family: 'Bebas Neue', cursive;
+                    word-spacing: 10px;
+                    letter-spacing: 3px;
+                    font-size: 40px;
+
+
+                    margin-left: 470px;
+                    margin-top: 60px;
+             }
+
+             .alreadyhave{
+
+                        font-family: 'Economica', sans-serif;
+                        font-size: 18px;
+                        font-weight: bold;
+                        
+             
+             }
+
+
+            .alreadyhavefix {
+
+                margin-left: 50px;
+            }
+
+
+             .bpcardwidth{
+
+                width: 50%;
+             }
+
+
+             .birthparentcardtitle {
+            
+                 margin-left: 130px;
+            
+                }
+
+             .birthparentcardsubtitle{
+
+                margin-left: 200px;
+             }
+
+             .myagreement{
+
+                margin-left: 100px;
+             }
+                 
+            .birthmodal{
+
+                margin-left: 130px;
+            }
+
+
+            /* admin panel styling starts here */
+
+            .navbar {
+
+            font-family: 'Bebas Neue', cursive;
+            word-spacing: 5px;
+            letter-spacing: 2px;
+            font-size: 20px;
+
+            position: sticky;
+            top: 5px;
+            z-index: 1;
+
+        }
+
+        .navbar:hover{
+
+            color: black;
+        }
+
+        .myadmintext{
+
+            font-family: 'Bebas Neue', cursive;
+            word-spacing: 2px;
+            letter-spacing: 1px;
+            font-size: 15px;
+        }
+
+        .myadminfooter{
+            text-align: center;
+        }
+
+        .cardnumber{
+
+            font-size: 70px;
+            font-family: 'Bebas Neue', cursive;
+            margin-left: 110px;
+        }
+
+
+        .subcardnumber{
+
+            font-size: 70px;
+            font-family: 'Bebas Neue', cursive;
+            margin-left: 20px;
+        }
+
+        #navbarScroll{
+
+            margin-left: 200px;
+        }
+
+
+
+                 
+
+            /* Media Queries start here */
+
+       @media(max-width:350px  ){
+
+            .myimages{
+
+                height: 100px;
+            }
+
+            .homecarousel{
+
+                height: 200px;
+                
+            }
+
+            .mypatvision{
+
+                margin-top: 10px;
+            }
+
+            .myproof{
+
+                font-size: 20px;
+            }
+
+            .section2{
+
+            
+                /* position: fixed; */
+
+                display: none;
+            
+            }
+
+            .mytestimonial{
+
+                display: none;
+            }
+
+            #newsletter{
+
+                display: none;
+            }
+
+            .fancyfooter{
+
+                display: none;
+            }
+
+            .mynewsletter{
+
+                display: none;
+            }
+
+            .notinvolved{
+
+                display: none;
+            }
+
+            .contactheader{
+
+                width: 80%;
+            }
+
+            .questionsrow{
+
+                display: none;
+            }
+
+            .getholdtext{
+
+                font-size: 18px;
+            }
+
+            .fancyfooter{
+
+                display: none;
+            }
+
+            .mysigninnav{
+
+                display: none;
+            }
+
+            .realsignoverlay{
+
+                height: 500px;
+            }
+
+            .mysigninoverlay{
+
+                min-height: 500px;
+            }
+
+          .sectionimg{
+
+            height: 500px;
+            
+          }
+
+          .legalswitch , .legalsection{
+
+            display: none;
+          }
+
+
+          /* login query starts here */
+
+                  .myformlogin {
+        
+                      margin-top: 40px;
+        
+                      margin-left: 1px;
+
+                      
+                  }
+
+               .mysignincard{
+
+                display: none;
+               }
+
+
+
+               /* birth parent sign in query starts here */
+
+            .bpcardwidth{
+
+                width: 100%;
+            }
+
+
+
+               .birthparentheader{
+
+                margin-left: 80px;
+               }
+
+               .birthparentcardsubtitle{
+
+
+                margin-left: 70px;
+               }
+
+              .parentinput{
+
+                display: block;
+               }
+            
+               .birthparentcardtitle{
+
+                margin-left: 30px;
+               }
+             .myagreement{
+                margin-left: 10px;
+             }
+             .birthmodal{
+                margin-left: 50px;
+             }
+
+             .alreadyhavefix{
+
+                margin-left: 1px;
+             }
+
+
+
+
+
+
+
+             /* team query styling starts from here */
+
+             .timheader{
+
+                margin-left: 50px;
+             }
+
+
+             .timtext{
+
+                margin-left: 10px;
+             }
+
+             .parentrob{
+
+                margin-left: 5px;
+             }
+
+             .fancyteam{
+
+                display: none;
+             }
+
+             .teamdisplayheader{
+
+                font-size: 25px;
+             }
+
+       }
+
+
+
+        @media(max-width:768px){
+
+
+        .myimages{
+
+            height: 400px;
+        }
+
+        .mycardtext{
+
+            display: none;
+        }
+
+        /* .visionrow{
+
+            display: ;
+            
+        } */
+
+        .whyadopt{
+
+            display: block;
+        }
+
+        .genesisrow{
+
+            margin-left: 10px;
+        }
+
+                .genesisrow1 {
+        
+                   width: 100%;
+                }
+
+            
+          
+                .myformlogin {
+            
+                 margin-top: 70px;
+            
+              margin-left: 50px;
+
+              width: 75%;
+            
+            
+          }
+
+                
+          .sectionimg {
+                
+                 height: 600px;
+                
+                 }
+
+           .mysigninoverlay {
+        
+            min-height: 600px;
+        }
+
+                .timheader {
+        
+                    margin-left: 100px;
+                }
+
+                             
+                .timtext {
+                
+                  margin-left: 10px;
+                        
+                }
+
+            .parentrob {
+            
+                margin-left: 75px;
+            }
+
+            .fancyteam {
+            
+                margin-left: 10px;
+                width: 100%;
+            }
+
+
+            .birthparentcardtitle{
+
+                margin-left: 30px;
+               }
+
+             .myagreement{
+
+                margin-left: 50px;
+             }
+
+             .birthmodal{
+
+                margin-left: 50px;
+             }
+
+             .alreadyhavefix{
+
+                margin-left: 1px;
+             }
+            
+
+             .birthparentheader{
+
+                margin-left: 270px;
+               }
+
+               .birthparentcardsubtitle{
+
+
+                margin-left: 70px;
+               }
+
+       } 
+
+
+       /* users dashboard footer styling */
+       .trialfooter{
+        margin-left: 200px;
+       }
+
+
+       @media(max-width:990px){
+
+
+        .carouseltext{
+            display: none;
+        }
+
+            .mytestimonial{
+
+                display: none;
+            }
+
+        .mycardtext {
+        
+          display: none;
+
+          }
+
+          .mynewsletter {
+
+            margin: auto;
+            margin-left: 100px;
+            
+          }
+
+         .whyadopt {
+        
+            display: block;
+        }
+
+                .myheading {
+        
+                    font-size: 30px;
+                }
+
+                .legalpicture{
+
+                    margin-left: 1px;
+                }
+
+                .legalcontent1{
+
+                    margin-top: 20px;
+                }
+
+                /* about page media query starts here */
+
+                .genesisrow {
+        
+                    margin-left: 10px;
+                }
+        
+                .genesisrow1 {
+        
+                    width: 100%;
+                }
+
+
+                                .realsignoverlay {
+                
+                                    height: 600px;
+                                }
+                
+                                .mysigninoverlay {
+                
+                                    min-height: 600px;
+                                }
+                
+                                .sectionimg {
+                
+                                    height: 600px;
+                
+                                }
+                
+              
+                .myformlogin {
+                                            
+                margin-top: 70px;
+                                            
+                margin-left: 50px;
+                                            
+                width: 75%;
+                                            
+                }
+
+                .timheader {
+        
+                    margin-left: 100px;
+                }
+
+                             
+                .timtext {
+                
+                  margin-left: 10px;
+                        
+                }
+
+            .parentrob {
+            
+                margin-left: 75px;
+            }
+
+            .fancyteam {
+            
+                margin-left: 10px;
+                width: 100%;
+            }
+           
+            
+                                
+       }
+
+
+       
